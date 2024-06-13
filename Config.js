@@ -5,19 +5,19 @@ require('dotenv').config();
 //contact details
 global.ownernumber= "+254722146715"
 global.ownername= "evensronoh"
-global.ytname = "YT: AyushBotz.inc"
-global.socialm = "GitHub: Ayushpandey023"
-global.location = "Indian"
+global.ytname = "evensronoh"
+global.socialm = "evansronoh"
+global.location = "keny"
 
 global.botname = process.env.BOTNAME || "𝐌𝐀𝐑𝐈𝐀-𝐌𝐃",//name of the bot
 
 //sticker details
-global.stickername = process.env.STICKER || "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰",
+global.stickername = process.env.STICKER || "evansronoh",
 global.packname = 'Sticker By'
-global.author = process.env.AUTHOR || "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰",
+global.author = process.env.AUTHOR || "evansronoh",
 //console view/theme
 global.themeemoji = '🧩'
-global.wm = "Ayush botz inc."
+global.wm = "evansronoh."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VaImo5ZG3R3qjKOdyr1I'
