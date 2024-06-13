@@ -3,7 +3,7 @@ const chalk = require('chalk');
 require('dotenv').config();
 
 //contact details
-global.kenya = [ process.env.+254722146715|| "919931122319"],
+global.kenya = [ process.env.254722146715|| "919931122319"],
 global.Ronoh= process.env.OWNER_NAME || "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰",
 global.ytname = "YT: AyushBotz.inc"
 global.socialm = "GitHub: Ayushpandey023"
